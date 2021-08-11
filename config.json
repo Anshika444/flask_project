@@ -1,0 +1,21 @@
+{
+  "params": {
+    "fb_url": "https://facebook.com/myblog",
+    "git_url": "https://github.com/myblog",
+    "gmail_password": "myblog123",
+    "gmail_user": "anshi.upadhyay44@gmail.com",
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/myblog",
+    "prod_uri": "mysql://root:@localhost/myblog",
+    "twi_url": "https://twitter.com/myblog",
+    "no_of_posts": 4,
+    "admin_user":"Anshika Upadhyay",
+    "admin_password": "admin_password",
+    "blog_name": "MyBlog",
+    "login_image": "login.svg"
+  }
+
+}
+
+
+

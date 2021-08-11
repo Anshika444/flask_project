@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/myblog",
+    "prod_uri": "mysql://root:@localhost/myblog",
+    "fb_url": "https://facebook.com/myblog",
+    "twi_url": "https://twitter.com/myblog",
+    "git_url": "https://github.com/myblog",
+    "gmail_user":"anshi.upadhyay44@gmail.com",
+    "gmail_password":"myblog123"
+
+
+  }
+
+}
